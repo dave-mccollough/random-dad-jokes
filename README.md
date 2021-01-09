@@ -1,1 +1,2 @@
-# random-dad-jokes
+#  Getting Started AWS Lambda Functions
+This code supports the following blog post https://davemccollough.com/2021/01/09/getting-started-aws-lambda-functions/ and is used to for a Lambda function in AWS.  
